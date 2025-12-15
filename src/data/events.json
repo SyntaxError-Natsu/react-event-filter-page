@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Future of AI: Annual Summit 2024",
+    "type": "Conference",
+    "locationType": "In-person",
+    "date": "Oct 25–27, 2024",
+    "time": "9:00 AM – 5:00 PM",
+    "location": "Convention Center, NYC",
+    "seats": 20,
+    "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678",
+    "description": "Top leaders discuss AI innovation, ethics and future impact."
+  },
+  {
+    "id": 2,
+    "title": "Mastering React Hooks",
+    "type": "Webinar",
+    "locationType": "Online",
+    "date": "Nov 4, 2024",
+    "time": "10:00 AM – 12:00 PM",
+    "location": "Online",
+    "seats": 150,
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+    "description": "Build scalable React apps using Hooks and patterns."
+  },
+  {
+    "id": 3,
+    "title": "Advanced UI/UX Design Principles",
+    "type": "Workshop",
+    "locationType": "In-person",
+    "date": "Nov 12, 2024",
+    "time": "1:00 PM – 5:00 PM",
+    "location": "London Design Studio",
+    "seats": 5,
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d",
+    "description": "Hands-on modern UI/UX workshop."
+  },
+  {
+    "id": 4,
+    "title": "Startup Pitch Night",
+    "type": "Meetup",
+    "locationType": "In-person",
+    "date": "Nov 20, 2024",
+    "time": "6:00 PM – 9:00 PM",
+    "location": "Berlin Tech Hub",
+    "seats": 50,
+    "image": "",
+    "description": "Watch startups pitch to investors live."
+  },
+  {
+    "id": 5,
+    "title": "Cloud Computing Essentials",
+    "type": "Seminar",
+    "locationType": "Online",
+    "date": "Dec 1, 2024",
+    "time": "11:00 AM – 1:00 PM",
+    "location": "Online",
+    "seats": 200,
+    "image": "",
+    "description": "AWS, Azure and GCP fundamentals."
+  },
+
+  { "id": 6, "title": "DevOps Bootcamp", "type": "Workshop", "locationType": "In-person", "date": "Dec 5, 2024", "time": "10:00 AM – 4:00 PM", "location": "Bangalore", "seats": 25, "image": "", "description": "Hands-on DevOps practices." },
+  { "id": 7, "title": "Product Management 101", "type": "Webinar", "locationType": "Online", "date": "Dec 8, 2024", "time": "2:00 PM – 4:00 PM", "location": "Online", "seats": 180, "image": "", "description": "Basics of product thinking." },
+  { "id": 8, "title": "Cybersecurity Conference", "type": "Conference", "locationType": "In-person", "date": "Dec 12, 2024", "time": "9:00 AM – 6:00 PM", "location": "San Francisco", "seats": 40, "image": "", "description": "Security trends and threats." },
+  { "id": 9, "title": "Data Science Meetup", "type": "Meetup", "locationType": "In-person", "date": "Dec 15, 2024", "time": "5:00 PM – 8:00 PM", "location": "Toronto", "seats": 60, "image": "", "description": "Networking for data professionals." },
+  { "id": 10, "title": "Design Systems at Scale", "type": "Webinar", "locationType": "Online", "date": "Dec 18, 2024", "time": "12:00 PM – 1:30 PM", "location": "Online", "seats": 220, "image": "", "description": "Build scalable design systems." },
+  { "id": 11, "title": "AI for Business Leaders", "type": "Seminar", "locationType": "Online", "date": "Dec 20, 2024", "time": "10:00 AM – 12:00 PM", "location": "Online", "seats": 300, "image": "", "description": "AI strategy for leaders." },
+  { "id": 12, "title": "Frontend Performance", "type": "Workshop", "locationType": "In-person", "date": "Jan 5, 2025", "time": "11:00 AM – 4:00 PM", "location": "Amsterdam", "seats": 15, "image": "", "description": "Optimize frontend apps." },
+  { "id": 13, "title": "Agile Product Meetup", "type": "Meetup", "locationType": "In-person", "date": "Jan 10, 2025", "time": "6:00 PM – 9:00 PM", "location": "Paris", "seats": 80, "image": "", "description": "Agile discussions & networking." },
+  { "id": 14, "title": "Mobile App UX", "type": "Workshop", "locationType": "In-person", "date": "Jan 15, 2025", "time": "1:00 PM – 5:00 PM", "location": "Tokyo", "seats": 12, "image": "", "description": "Mobile-first UX design." },
+  { "id": 15, "title": "Open Source Contribution", "type": "Webinar", "locationType": "Online", "date": "Jan 20, 2025", "time": "4:00 PM – 6:00 PM", "location": "Online", "seats": 250, "image": "", "description": "How to contribute to OSS." }
+]

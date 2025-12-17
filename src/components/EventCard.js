@@ -9,9 +9,10 @@ function EventCard({ event }) {
   return (
     <div className="card">
       <img src={event.image || PLACEHOLDER} alt={event.title} />
+
       <span className="badge">{event.type}</span>
 
-      <h3>{event.title}</h3>
+      <h4>{event.title}</h4>
       <p className="meta">📅 {event.date}</p>
       <p className="meta">📍 {event.location}</p>
 

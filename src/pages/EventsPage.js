@@ -28,6 +28,7 @@ function EventsPage() {
       <Filters filters={filters} setFilters={setFilters} />
 
       <main>
+        <div class = 'events-header'>
         <h1>Upcoming Events</h1>
 
         <input
@@ -36,6 +37,8 @@ function EventsPage() {
           value={search}
           onChange={e => setSearch(e.target.value)}
         />
+        </div>
+
 
         <div className="grid">
           {loading
